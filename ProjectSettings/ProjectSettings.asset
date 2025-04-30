@@ -4,7 +4,7 @@
 PlayerSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 28
-  productGUID: 798d5c4959eed3b4ab877e94f02ba6f4
+  productGUID: 1991acb8526119841b29648dbdf6406b
   AndroidProfiler: 0
   AndroidFilterTouchesWhenObscured: 0
   AndroidEnableSustainedPerformanceMode: 0
@@ -13,7 +13,7 @@ PlayerSettings:
   useOnDemandResources: 0
   accelerometerFrequency: 60
   companyName: DefaultCompany
-  productName: AERUnity6
+  productName: TeamAliceEscapeRoom
   defaultCursor: {fileID: 0}
   cursorHotspot: {x: 0, y: 0}
   m_SplashScreenBackgroundColor: {r: 0.13725491, g: 0.12156863, b: 0.1254902, a: 1}
@@ -837,14 +837,14 @@ PlayerSettings:
   editorAssembliesCompatibilityLevel: 1
   m_RenderingPath: 1
   m_MobileRenderingPath: 1
-  metroPackageName: AERUnity6
+  metroPackageName: TeamAliceEscapeRoom
   metroPackageVersion: 
   metroCertificatePath: 
   metroCertificatePassword: 
   metroCertificateSubject: 
   metroCertificateIssuer: 
   metroCertificateNotAfter: 0000000000000000
-  metroApplicationDescription: AERUnity6
+  metroApplicationDescription: TeamAliceEscapeRoom
   wsaImages: {}
   metroTileShortName: 
   metroTileShowName: 0
@@ -915,10 +915,10 @@ PlayerSettings:
   captureStartupLogs: {}
   activeInputHandler: 2
   windowsGamepadBackendHint: 0
-  cloudProjectId: 48702126-5ccf-4599-9580-6926a3f3ef03
+  cloudProjectId: 81eb600a-dd61-4850-b9e6-406cc4a2b4c6
   framebufferDepthMemorylessMode: 0
   qualitySettingsNames: []
-  projectName: AERUnity6
+  projectName: TeamAliceEscapeRoom
   organizationId: ivf7669
   cloudEnabled: 0
   legacyClampBlendShapeWeights: 0
